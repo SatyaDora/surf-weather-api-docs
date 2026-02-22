@@ -1,0 +1,46 @@
+site_name: Technical Documentation Hub
+site_description: Developer Portal
+site_author: Satya
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.instant
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - About This Project: about-project.md
+  - Documentation Architecture: architecture.md
+
+  - Developer Documentation:
+      - Core Guides:
+          - Getting Started: developer-docs/guides/getting-started.md
+          - Authentication: developer-docs/guides/authentication.md
+          - Rate Limits: developer-docs/guides/rate-limits.md
+          - Error Catalog: developer-docs/guides/error-catalog.md
+
+      - API Reference:
+          - API v1 Overview: developer-docs/v1/overview.md
+          - First API Call: developer-docs/v1/first-api-call.md
+          - API v2 Overview: developer-docs/v2/overview.md
+
+      - SDKs:
+          - Python SDK: developer-docs/sdks/python.md
+
+  - User Documentation:
+      - User Guides:
+          - Quick Start: user-documentation/user-guides/quick-start.md
+          - User Manual: user-documentation/user-guides/user-manual.md
+
+      - Help Center:
+          - FAQ: user-documentation/help-center/faq.md
+          - Troubleshooting: user-documentation/help-center/troubleshooting.md
+
+      - Release Notes:
+          - v1.0: user-documentation/release-notes/v1.0.md
+          - v1.1: user-documentation/release-notes/v1.1.md
+
+plugins:
+  - search
