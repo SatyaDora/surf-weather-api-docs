@@ -84,7 +84,8 @@ Planned improvements include:
 
 ## 👨Author
 
-Satya Dora Velnati,
+**Satya Dora Velnati**,
+
 Technical Documentation Portfolio Project  
 Focused on Developer Experience and API Documentation.
 

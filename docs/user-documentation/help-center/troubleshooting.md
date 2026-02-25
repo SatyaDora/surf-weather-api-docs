@@ -1,11 +1,3 @@
-# Help Center
-
-Welcome to the Help Center.
-
-This section provides solutions to common issues and troubleshooting steps.
-
----
-
 ## Troubleshooting
 
 ### Problem: Dashboard not loading
@@ -52,7 +44,7 @@ This section provides solutions to common issues and troubleshooting steps.
 
 ---
 
-## Contact Support
+### Contact Support
 
 If the issue continues, contact support:
 

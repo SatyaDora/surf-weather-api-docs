@@ -44,14 +44,14 @@ This allows independent evolution of documentation and API lifecycle.
 
 ## Docs-as-Code Approach
 
-This project uses:
+**This project uses:**
 
 - MkDocs
 - Markdown
 - Git-based workflow
 - OpenAPI specification (openapi.yaml)
 
-Benefits:
+**Benefits:**
 
 - Version control
 - Reviewable changes
@@ -64,7 +64,7 @@ Benefits:
 
 Instead of embedding Swagger directly, the documentation links to the OpenAPI specification.
 
-Reason:
+**Reason:**
 
 - Keeps documentation lightweight
 - Avoids plugin dependency issues

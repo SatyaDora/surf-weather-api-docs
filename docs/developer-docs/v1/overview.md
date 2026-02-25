@@ -27,3 +27,5 @@ Open Swagger Editor:
 - `/weather` — Current weather by city
 
 ---
+
+

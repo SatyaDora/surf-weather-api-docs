@@ -23,7 +23,7 @@ Major dashboard redesign and improved user experience.
 
 ---
 
-## 🌊 Version 1.5.0 — January 2026
+## Version 1.5.0 — January 2026
 
 ### Highlights
 
