@@ -4,7 +4,7 @@ This developer portal is structured to simulate a real-world startup API documen
 
 ---
 
-## 🎯 Goals
+## Goals
 
 The documentation is designed to:
 
@@ -15,7 +15,7 @@ The documentation is designed to:
 
 ---
 
-## 🧭 Developer Journey Design
+## Developer Journey Design
 
 The navigation follows a logical developer workflow:
 
@@ -29,7 +29,7 @@ This structure reduces cognitive load for first-time users.
 
 ---
 
-## 🧱 Versioning Strategy
+## Versioning Strategy
 
 API versions are separated into folders:
 
@@ -42,7 +42,7 @@ This allows independent evolution of documentation and API lifecycle.
 
 ---
 
-## 🔧 Docs-as-Code Approach
+## Docs-as-Code Approach
 
 This project uses:
 
@@ -60,7 +60,7 @@ Benefits:
 
 ---
 
-## 📦 API Reference Strategy
+## API Reference Strategy
 
 Instead of embedding Swagger directly, the documentation links to the OpenAPI specification.
 
@@ -72,7 +72,7 @@ Reason:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 Planned enhancements:
 
@@ -91,3 +91,6 @@ This documentation project demonstrates:
 - Developer experience thinking
 - Structured information architecture
 - Practical docs-as-code implementation
+
+---
+  

@@ -8,8 +8,18 @@ theme:
     - navigation.sections
     - navigation.instant
     - content.code.copy
+    
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
 
 nav:
+  - Documentation Hub: branding.md  
   - Home: index.md
   - About This Project: about-project.md
   - Documentation Architecture: architecture.md
@@ -38,9 +48,6 @@ nav:
           - FAQ: user-documentation/help-center/faq.md
           - Troubleshooting: user-documentation/help-center/troubleshooting.md
 
-      - Release Notes:
-          - v1.0: user-documentation/release-notes/v1.0.md
-          - v1.1: user-documentation/release-notes/v1.1.md
-
+      - Release Notes: user-documentation/release-notes.md
 plugins:
   - search

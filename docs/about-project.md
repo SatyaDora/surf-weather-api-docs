@@ -4,7 +4,7 @@ This documentation portal was created as a real-world simulation of startup API 
 
 ---
 
-## 🎯 Project Goal
+## Project Goal
 
 The goal was to design a developer-first documentation system that demonstrates:
 
@@ -15,7 +15,7 @@ The goal was to design a developer-first documentation system that demonstrates:
 
 ---
 
-## 🧱 Tools Used
+## Tools Used
 
 - MkDocs (Material Theme)
 - Markdown
@@ -24,7 +24,7 @@ The goal was to design a developer-first documentation system that demonstrates:
 
 ---
 
-## 🧭 Documentation Strategy
+## Documentation Strategy
 
 The structure follows a developer journey:
 
@@ -39,7 +39,7 @@ This reduces friction for new developers.
 
 ---
 
-## 🔄 Versioning Approach
+## Versioning Approach
 
     - v1 → Stable production API
     - v2 → Beta / future enhancements
@@ -48,7 +48,7 @@ Version folders allow independent evolution of APIs and documentation.
 
 ---
 
-## 📦 API Reference Approach
+## API Reference Approach
 
 Instead of embedding Swagger directly, the documentation links to the OpenAPI specification.
 
@@ -59,7 +59,7 @@ This mirrors many real-world startup practices where:
 
 ---
 
-## 💡 Key Skills Demonstrated
+## Key Skills Demonstrated
 
 This project demonstrates:
 
@@ -71,7 +71,7 @@ This project demonstrates:
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 Planned improvements include:
 
@@ -82,7 +82,8 @@ Planned improvements include:
 
 ---
 
-## 👨‍💻 Author
+## 👨Author
 
+Satya Dora Velnati,
 Technical Documentation Portfolio Project  
 Focused on Developer Experience and API Documentation.

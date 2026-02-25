@@ -1,4 +1,4 @@
-name: Deploy MkDocs
+name: Deploy MkDocs to GitHub Pages
 
 on:
   push:
@@ -13,12 +13,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v4
         with:
           python-version: 3.x
 
-      - run: pip install mkdocs mkdocs-material
+      - name: Install dependencies
+        run: |
+          pip install mkdocs
+          pip install mkdocs-material
+          pip install mkdocs-swagger-ui-tag
 
-      - run: mkdocs gh-deploy --force
+      - name: Deploy
+        run: mkdocs gh-deploy --force

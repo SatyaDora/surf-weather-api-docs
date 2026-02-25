@@ -4,20 +4,20 @@ Build weather-powered applications using real-time coastal data.
 
 ---
 
-## 🚀 Start Building
+## Start Building
 
 The Surf Weather API provides developers with fast, reliable access to weather data for surf and coastal applications.
 
 ### What you can do
 
-- 🌦 Retrieve real-time weather data
-- 📍 Query by city or location
-- 🔐 Secure API key authentication
-- ⚡ Integrate quickly using SDK examples
+- Retrieve real-time weather data
+- Query by city or location
+- Secure API key authentication
+- Integrate quickly using SDK examples
 
 ---
 
-## 🧭 Developer Journey
+## Developer Journey
 
 Follow this path to get started quickly:
 
@@ -29,7 +29,7 @@ Follow this path to get started quickly:
 
 ---
 
-## 📦 API Versions
+## API Versions
 
 | Version | Status | Description |
 |---|---|---|
@@ -38,26 +38,29 @@ Follow this path to get started quickly:
 
 ---
 
-## 📚 Documentation Overview
+## Documentation Overview
 
 ### Core Guides
+
 - Getting Started
 - Authentication
 - Rate Limits
 - Error Catalog
 
 ### API Reference
+
 - API v1 (Stable)
 - API v2 (Beta)
 
 ### Developer Resources
+
 - SDK Examples
 - Changelog
 - Documentation Architecture
 
 ---
 
-## 💡 Why This Documentation Exists
+## Why This Documentation Exists
 
 This portal demonstrates a real-world docs-as-code workflow designed for startup environments:
 
@@ -68,7 +71,7 @@ This portal demonstrates a real-world docs-as-code workflow designed for startup
 
 ---
 
-## 🔗 Interactive API Testing
+## Interactive API Testing
 
 Download the OpenAPI specification and test endpoints in Swagger Editor.
 
