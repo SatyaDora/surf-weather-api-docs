@@ -24,3 +24,5 @@ The dashboard displays:
 ## Step 4 — Save Favorite Locations
 
 Click ⭐ to save locations for quick access later.
+
+---

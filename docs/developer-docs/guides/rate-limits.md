@@ -18,3 +18,5 @@ Rate limits prevent API abuse and ensure stability.
 - Cache responses where possible
 - Avoid polling too frequently
 - Implement retry logic
+
+---

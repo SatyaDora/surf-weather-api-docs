@@ -76,3 +76,5 @@ This portal demonstrates a real-world docs-as-code workflow designed for startup
 Download the OpenAPI specification and test endpoints in Swagger Editor.
 
 ➡️ API v1 → Overview
+
+---

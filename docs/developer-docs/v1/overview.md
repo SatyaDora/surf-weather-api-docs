@@ -25,3 +25,5 @@ Open Swagger Editor:
 ## Available Endpoints
 
 - `/weather` — Current weather by city
+
+---

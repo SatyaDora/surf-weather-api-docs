@@ -57,3 +57,5 @@ This section provides solutions to common issues and troubleshooting steps.
 If the issue continues, contact support:
 
 📧 <support@surfweather.com>
+
+---

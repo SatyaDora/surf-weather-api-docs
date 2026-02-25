@@ -32,3 +32,5 @@ From the profile menu you can:
 - Change units (Celsius/Fahrenheit)
 - Manage saved locations
 - Update profile details
+  
+---

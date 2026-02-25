@@ -66,7 +66,7 @@ Focused on stability improvements and usability enhancements.
 
 ## Version 1.0.0 — Initial Release
 
-### ✨ Highlights
+### Highlights
 
 First public release of Surf Weather.
 
@@ -75,3 +75,5 @@ First public release of Surf Weather.
 - Real-time surf conditions
 - Dashboard overview
 - Location search
+
+---

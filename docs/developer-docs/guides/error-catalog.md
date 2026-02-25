@@ -17,3 +17,5 @@ This page lists common API errors and resolutions.
 ## Debugging Tip
 
 Always log response status codes during development.
+
+---

@@ -32,3 +32,5 @@ Weather data refreshes every few minutes.
 If you need help, contact:
 
 <support@surfweather.com>
+
+---

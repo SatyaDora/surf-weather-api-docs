@@ -15,3 +15,5 @@
 ## Note
 
 v2 is under active development.
+
+---
